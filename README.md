@@ -12,16 +12,9 @@ Available Items are:
 
 Initial population:
 
-[[0 1 0 1 1 0 0 1 1 1]
-[1 1 1 1 0 1 1 1 0 0]
-[0 1 0 0 0 0 1 1 0 1]
-[0 0 1 0 1 1 0 0 0 0]
-[0 0 1 1 0 0 0 0 0 1]
-[0 1 0 1 1 0 1 0 0 0]
-[1 1 1 0 0 0 1 0 1 0]
-[0 0 0 0 1 1 1 0 0 0]]
+![image](https://user-images.githubusercontent.com/76726810/172024160-3001a006-ccb5-4e7d-b10f-f88f133fec30.png)
 
-Fitness Function:
+
 ![image](https://user-images.githubusercontent.com/76726810/172024122-1fd025e4-3c4b-4333-be0a-1b0eef49a0b0.png)
 
 where,
