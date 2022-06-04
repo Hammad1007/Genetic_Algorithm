@@ -7,17 +7,8 @@ help the thief to make the selection.
 
 Available Items are:
 
-Item No. Weight Value
-1 3 266
-2 13 442
-3 10 671
-4 9 526
-5 7 388
-6 1 245
-7 8 210
-8 8 145
-9 2 126
-10 9 322
+![image](https://user-images.githubusercontent.com/76726810/172024147-b0317da4-e98e-442b-8eb1-7c3484a3a35e.png)
+
 
 Initial population:
 
