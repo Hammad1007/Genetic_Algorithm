@@ -18,13 +18,14 @@ Initial population:
 ![image](https://user-images.githubusercontent.com/76726810/172024122-1fd025e4-3c4b-4333-be0a-1b0eef49a0b0.png)
 
 where,
-n = chromosome length
-Ci = ith gene
-Vi = ith value
-Wi = ith weight
-kw = allowed weight
+1. n = chromosome length
+2. Ci = ith gene
+3. Vi = ith value
+4. Wi = ith weight
+5. kw = allowed weight
 
 To generate new population:
+
 1- Two-point crossover
 Example of two-point cross-over. Choose the positions as in the example.
 
